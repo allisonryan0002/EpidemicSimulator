@@ -2,12 +2,6 @@ Epidemic Simulator
 Author: Allison Ryan
 Version: 12/4/2020 version with a new simulation framework
 
-This distribution contains:
-
--- README -- this file
--- EpidemicSource -- the list of all Java source files included here
--- testepi -- input to the simulator
-
 Shell command to build the simulator: javac @EpidemicSource
 Shell command to build Javadoc web site: javadoc @EpidemicSource
 
