@@ -1,0 +1,6 @@
+pop 1000;
+house 3.3,3;       // household size median 3.3 scatter 3
+workplace 10,9;    // workplace size median 10 scatter 9
+infected 10;	   // begin with 1% infected
+employed 0.5;      // 50% of population works
+end 30.0001;	   // run for 30 days
